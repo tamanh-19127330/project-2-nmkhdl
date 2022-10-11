@@ -2,7 +2,7 @@
 Đồ án 2 nhập môn khoa học dữ liệu trường đại học khoa học tự nhiên
 # Mô tả project :
 * Phân tích dữ liệu về các nghệ sĩ, ban nhạc, podcast và người sáng
-tác âm nhạc trên trang Soundcloud thông qua dữ liệu được lấy từ đồ án 1 .
+tác âm nhạc trên trang Soundcloud thông qua dữ liệu được lấy từ đồ án 1 (được thực hiện từ 10/10/2021-19/12/2021).
 
 # Danh sách thành viên : 
 | MSSV     | Họ tên             | Github                                        |
